@@ -1,0 +1,5 @@
+{
+  "name": "Epic War Card Game",
+  "description": "A fully automated, visual simulation of the classic card game War, featuring battle statistics and AI-powered match commentary.",
+  "requestFramePermissions": []
+}

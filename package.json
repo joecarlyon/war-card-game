@@ -1,0 +1,9 @@
+{
+  "name": "epic-war-card-game",
+  "version": "1.0.0",
+  "description": "Visual simulation of War card game",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
